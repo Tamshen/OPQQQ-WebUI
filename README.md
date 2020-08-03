@@ -1,6 +1,6 @@
 # OPQQQ-WebUI
 
-A simple OPQQQ-WebUI written in W3CSS (in pursuit of small and speed)
+A simple OPQQQ-WebUI (in pursuit of small and speed)
 
 ## Install
 
